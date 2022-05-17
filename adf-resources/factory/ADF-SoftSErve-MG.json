@@ -1,0 +1,9 @@
+{
+	"name": "ADF-SoftSErve-MG",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "514d7fdb-93ed-411c-8d9f-e555bf38607f",
+		"tenantId": "6c51c659-9d52-41af-81f7-dde16380e813"
+	}
+}
